@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="ubershmekel-hotdog.svg">
+   sodipodi:docname="ubershmekel-hotdog.svg"
+   inkscape:export-filename="ubershmekel-hotdog.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs2">
     <linearGradient
@@ -160,9 +163,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="205.25222"
-     inkscape:cy="-80.427223"
+     inkscape:zoom="1.4"
+     inkscape:cx="272.14337"
+     inkscape:cy="96.407188"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
